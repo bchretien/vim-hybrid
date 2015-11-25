@@ -74,17 +74,17 @@ let g:colors_name = "hybrid"
 
 let s:palette = {'gui' : {} , 'cterm' : {}}
 
-let s:palette.gui.background = { 'dark' : "#1d1f21", 'light' : "#e4e4e4" }
+let s:palette.gui.background = { 'dark' : "#1c1c1c", 'light' : "#e4e4e4" }
 let s:palette.gui.foreground = { 'dark' : "#c5c8c6", 'light' : "#000000" }
 let s:palette.gui.selection  = { 'dark' : "#373b41", 'light' : "#bcbcbc" }
 let s:palette.gui.line       = { 'dark' : "#282a2e", 'light' : "#d0d0d0" }
 let s:palette.gui.comment    = { 'dark' : "#707880", 'light' : "#5f5f5f" }
 let s:palette.gui.red        = { 'dark' : "#cc6666", 'light' : "#5f0000" }
 let s:palette.gui.orange     = { 'dark' : "#de935f", 'light' : "#875f00" }
-let s:palette.gui.yellow     = { 'dark' : "#f0c674", 'light' : "#5f5f00" }
+let s:palette.gui.yellow     = { 'dark' : "#ede134", 'light' : "#5f5f00" }
 let s:palette.gui.green      = { 'dark' : "#b5bd68", 'light' : "#005f00" }
 let s:palette.gui.aqua       = { 'dark' : "#8abeb7", 'light' : "#005f5f" }
-let s:palette.gui.blue       = { 'dark' : "#81a2be", 'light' : "#00005f" }
+let s:palette.gui.blue       = { 'dark' : "#7EA7CC", 'light' : "#00005f" }
 let s:palette.gui.purple     = { 'dark' : "#b294bb", 'light' : "#5f005f" }
 let s:palette.gui.window     = { 'dark' : "#303030", 'light' : "#9e9e9e" }
 let s:palette.gui.darkcolumn = { 'dark' : "#1c1c1c", 'light' : "#808080" }
